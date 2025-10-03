@@ -1,0 +1,187 @@
+body {
+    background-image: url(../FOKIR/MAN2.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 10000px;
+    width: 900px;
+}
+
+.numbers {
+    margin-top: 250px;
+    margin-left: 300px;
+}
+
+.one {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.two {
+    color: maroon;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100px;
+}
+
+.numbers p {
+    color: white;
+    text-align: center;
+}
+
+.demo {
+    background-image: url(../FOKIR/MAN3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 900px;
+    margin-top: 400px;
+    margin-left: 240px;
+}
+
+.demo p {
+    margin-top: 50px;
+    color: black;
+
+
+}
+
+.dragon {
+    text-align: center;
+    color: black;
+    margin-top: 200px;
+    margin-left: 400px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.hambozo {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.hambozo2 {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.hambozo3 {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.hambozo4 {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.image1 {
+    background-image: url(../FOKIR/WATCHSTOP2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 800px;
+    margin-top: 200px;
+
+    margin-left: 240px;
+}
+
+.image2 {
+    background-image: url(../FOKIR/WATCHSTOP.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 800px;
+    margin-top: 2oopx;
+    margin-left: 240px;
+}
+
+.image3 {
+    background-image: url(../FOKIR/OO8.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 800px;
+    margin-top: 200px;
+    margin-left: 240px;
+}
+
+.image4 {
+    background-image: url(../FOKIR/SHOES.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 800px;
+    margin-top: 200px;
+    margin-left: 240px;
+}
+
+.image5 {
+    background-image: url(../FOKIR/IMAGE.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 800px;
+    margin-top: 200px;
+    margin-left: 240px;
+}
+
+.image6 {
+    background-image: url(../FOKIR/AIRPODS.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 800px;
+    margin-top: 200px;
+    margin-left: 240px;
+}
+
+.snow {
+    background-image: url(../FOKIR/SNOW.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 240px;
+}
+
+.man1 {
+     background-image: url(../FOKIR/MAN1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 240px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

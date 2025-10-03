@@ -1,0 +1,174 @@
+body {
+    height: 5000;
+}
+
+
+
+
+.scary {
+background-image: url(../images/BREAD3.jpg.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+}
+
+.scary-items {
+color: white;
+text-align: center;
+margin-right: 100px;
+}
+
+.greenman {
+   background-image: url(../images/GREEN\ MAN.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+}
+
+.services {
+    text-align: center;
+font-size: 55px;
+} 
+
+.web {
+    text-align: center;
+}
+
+.branding {
+    text-align: center;
+}
+
+.development {
+    text-align: center;
+}
+
+.creative {
+    text-align: center;
+}
+
+.fully {
+    text-align: center;
+}
+
+.retina {
+    text-align: center;
+}
+
+.portfolio {
+text-align: center;
+font-size: 55px;
+}
+
+.powerbank {
+   background-image: url(../images/POWER\ BANK.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+}
+
+.map {
+   background-image: url(../images/MAP.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+}
+
+.blackpoints {
+   background-image: url(../images/BLACK\ POINTS.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+}
+
+.lamp {
+   background-image: url(../images/LAMP.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+}  
+ .roller {
+       background-image: url(../images/ROLLER.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+ }
+
+.schooltool {
+      background-image: url(../images/SCHOOL\ ITEMS.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px; 
+}
+
+.test {
+    text-align: center;
+font-size: 55px;
+}
+
+.alex {
+text-align: center;
+}
+
+.team {
+    text-align: center;
+}
+
+.blackman {
+   background-image: url(../images/BLACK\ MAN.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+}
+
+.redman {
+   background-image: url(../images/RED\ MAN.jpg);
+height: 100vh;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-left: 200px;
+margin-top: 100px;
+}
+
+.john {
+    text-align: center;
+}
+
+.dave {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,263 @@
+body {
+height: 6000px;
+
+}
+
+
+
+
+.div1 .plate {
+width: 300px;
+height: 300px;
+background-image: url(../meality/plate.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 500px;
+animation-name: shakingplate;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+animation-direction: reverse;
+position: relative;
+}
+
+.div1 h1 {
+font-size: 30px;
+font-weight: 300;
+text-align: center;
+color: gray;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.div2 {
+font-size: 30px;
+font-weight: 300;
+text-align: center;
+color: gray;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.redchef {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/red\ chef.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.pinkchef {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/pink\ chef.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+} 
+
+.whitechef {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/white\ chef.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.Gallery {
+    font-size: 30px;
+font-weight: 300;
+text-align: center;
+color: gray;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.cheeseizza {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/cheese\ pizza.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.borgor {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/burgor.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.pizza {
+   width: 900px;
+height: 400px;
+background-image: url(../meality/pizza.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.egg {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/egg.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.steak {
+   width: 400px;
+height: 900px;
+background-image: url(../meality/meat.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.fried {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/chicken.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+.kabab {
+   width: 400px;
+height: 400px;
+background-image: url(../meality/kabab.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+margin-left: 440px; 
+}
+
+
+
+@keyframes shakingplate {
+
+0% {
+transform: skewX(0deg);
+}
+
+10%{
+transform: skewX(2deg);
+}
+
+20%{
+transform: skewX(4deg);
+}
+
+30% {
+    transform: skewX(2deg);
+}
+
+40% {
+transform: skewX(0deg);
+}
+
+50% {
+    transform: skewY(2deg);
+}
+
+60% {
+    transform: skewY(4deg);
+}
+
+70% {
+    transform: skewY(2deg);
+}
+
+80% {
+    transform: skewY(0deg);
+}
+
+90% {
+    transform: skewX(2deg);
+}
+
+100%{
+    transform: skewX(4deg);
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

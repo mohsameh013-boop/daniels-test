@@ -1,0 +1,198 @@
+body {
+height: 5000px;
+}
+
+
+
+
+
+.h {
+color: black;
+font-size: 40px;
+font-weight: 800;
+text-align: center;
+}
+
+.e {
+color: black;
+font-size: 40px;
+font-weight: 800;
+text-align: center;
+}
+
+.c {
+color: black;
+font-size: 40px;
+font-weight: 800;
+text-align: center;
+}
+
+.d {
+    text-align: center;
+color: blue;
+margin-top: 10px;
+}
+
+.phone {
+background-repeat: no-repeat;
+background-size: contain;
+width: 300px;
+height: 300px;
+text-align: center;
+margin-top: 100px;
+margin-left: 500px;
+}
+
+.keyboard {
+width: 1333px;
+height: 500px;
+    background-color: orangered;
+}
+
+.keyboard-photo {
+background-repeat: no-repeat;
+background-size: contain;
+width: 300px;
+height: 300px;
+text-align: center;
+margin-left: 500px;
+    background-color: orangered;
+margin-top: 60px;
+}
+
+.keyboard-items {
+
+text-align: center;
+margin-bottom: 100px;
+color: white;
+}
+
+.keyboard-items span {
+
+text-align: center;
+margin-bottom: 100px;
+color: gold;
+}
+
+.playstasion {
+width: 1333px;
+height: 500px;
+    ;
+}
+
+.playstasion-photo {
+background-repeat: no-repeat;
+background-size: contain;
+width: 300px;
+height: 300px;
+text-align: center;
+margin-top: 60px;
+}
+
+.playstasion-items {
+
+text-align: center;
+margin-bottom: 100px;
+color: black;
+}
+
+.playstasion-items span {
+
+text-align: center;
+margin-bottom: 100px;
+color: cyan;
+}
+
+.calculator-items  h2 {
+color: gray;
+}
+
+.calculator {
+    background-repeat: no-repeat;
+background-size: contain;
+width: auto;
+height: auto ;
+text-align: center;
+margin-top: 60px;
+}
+
+.download {
+    color: cyan;
+text-align: center;
+}
+
+.labtop-items h1 {
+background-color: teal;
+color: white;
+text-align: center;
+height: 200px;
+width: 1333px;
+}
+
+.labtop-photo {
+width: 300px;
+height: 300px;
+background-repeat: no-repeat;
+background-size: contain;
+margin-bottom: 250px;
+
+
+}
+
+.usb-photo {
+text-align: center;
+margin-top: 200px;
+
+height: 300px;
+}
+
+.usb-items {
+    text-align: center;
+}
+
+.radio-items .div {
+background-color: darkslategray;
+height: 600px;
+width: 1333px;
+}
+
+
+.radio-photo {
+width: 300px;
+height: 300px;
+text-align: center;
+margin-left: 500px;
+}
+
+.radio {
+color: black;
+text-align: center;
+font-size: 25px;
+font-weight: 200;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

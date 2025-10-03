@@ -1,0 +1,101 @@
+body {
+    background-image: url(../BAKERY\ PROJECT/BREAD3.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 6500px;
+     width: 900px;
+}
+
+.breadparent {
+    color: white;
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 400px;
+}
+
+.bread1 {
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.bread2 {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.bread3 {
+    font-size: 20px;
+}
+
+.breadknife {
+    background-image: url(../BAKERY\ PROJECT/BREAD.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 900px;
+    margin-top: 800px;
+    margin-left: 200px;
+}
+
+.market {
+
+}
+
+.baking {
+text-align: center;
+font-size: 25px;
+font-weight: 400;
+margin-left: 400px;
+}
+
+.knifebread {
+    background-image: url(../BAKERY\ PROJECT/BREAD2.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+    width: 900px;
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+.special {
+ text-align: center;
+font-size: 25px;
+font-weight: 400;
+margin-left: 400px;   
+}
+
+.donut {
+    background-image: url(../BAKERY\ PROJECT/DONUT.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+
+.donut-text {
+ text-align: center;
+font-size: 25px;
+font-weight: 400;
+margin-left: 400px; 
+}
+
+.cookies {
+    background-image: url(../BAKERY\ PROJECT/COOKIES.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+
+.cookies-text {
+ text-align: center;
+font-size: 25px;
+font-weight: 400;
+margin-left: 400px; 
+}
+
